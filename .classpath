@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/common.jar"/>
+	<classpathentry kind="lib" path="lib/ddmlib.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar" sourcepath="D:/maven/repo/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen-1.1-beta-7.jar"/>
+	<classpathentry kind="lib" path="lib/org-eclipse-core-commands-3.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/org-eclipse-equinox-common-3.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/org-eclipse-jface-3.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/swt.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

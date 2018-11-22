@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//com/android/uiautomator/DebugBridge.java=UTF-8
+encoding//com/android/uiautomator/GenerateFile.java=UTF-8
+encoding//com/android/uiautomator/UiAutomatorModel.java=UTF-8
+encoding//com/android/uiautomator/UiAutomatorView.java=UTF-8
+encoding//com/android/uiautomator/UiAutomatorViewer.java=UTF-8
+encoding//com/android/uiautomator/actions/GenerateXpathFileAction.java=UTF-8
+encoding//com/android/uiautomator/tree/UiHierarchyXmlLoader.java=UTF-8
